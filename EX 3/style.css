@@ -1,0 +1,27 @@
+body{
+    color: white;
+    background-color: black;
+    margin: 20px;
+    padding: 20px;
+}
+a{
+    color: white;
+}
+main{
+    box-shadow: 10px 10px 10px  rgb(255, 255, 255);
+    text-align: center;
+}
+
+input{
+    padding: 10px;
+    border-radius: 10px;
+}
+
+button{
+    padding: 12px;
+    border-radius: 100px;
+}
+
+button:hover{
+    background-color: rgb(168, 134, 134);
+}
